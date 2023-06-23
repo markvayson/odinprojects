@@ -1,3 +1,3 @@
 # odinprojects
 
-https://markvayson.github.io/zorofanpage/
+https://markvayson.github.io/odinprojects/
